@@ -1,0 +1,459 @@
+.MainPageBackground {
+    background-color: #FF6565;
+}
+
+/* –––––––––––––––––––––––––––––––––––––– MAIN PAGE –––––––––––––––––––––––––––––––––––––– */
+
+/* .MainPageText {
+    font-size: 30vw;
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+    position: absolute;
+} */
+
+.MainPageTextQuestion {
+    font-size: 30vw;
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+    position: absolute;
+    top: 0px; 
+    left: 60px;
+    right: 0px;
+    bottom: 900x;
+    transform-origin: 0%;
+    transform: rotate(-22.5deg);
+    /* margin-top: 0%;
+    margin-bottom: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%; */ 
+}
+
+.MainPageTextExclamation {
+    font-size: 30vw;
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+    position: absolute;
+    top: -300px; 
+    left: 250px;
+    right: 0px;
+    bottom: 0x;
+    transform-origin: 0%;
+    transform: rotate(2.5deg);
+}
+
+.MainPageTextPeriod {
+    font-size: 30vw;
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+    position: absolute;
+    top: -300px; 
+    left: 500px;
+    right: 0px;
+    bottom: 0x;
+    transform-origin: 0%;
+    transform: rotate(-22.5deg);
+    
+}
+
+.MainPageTextComma {
+    font-size: 30vw;
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+    position: absolute;
+    top: 0px; 
+    left: 240px;
+    right: 0px;
+    bottom: 900x;
+    transform-origin: 0%;
+    transform: rotate(-25deg);
+}
+
+.MainPageTextColon {
+    font-size: 30vw;
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+    position: absolute;
+    top: -200px; 
+    left: 375px;
+    right: 0px;
+    bottom: 0x;
+    transform-origin: 0%;
+    transform: rotate(30deg);
+}
+
+.MainPageTextSemiColon {
+    font-size: 30vw;
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+    position: absolute;
+    top: -50px; 
+    left: 450px;
+    right: 0px;
+    bottom: 0x;
+    transform-origin: 0%;
+    transform: rotate(15deg);
+}
+
+
+/* –––––––––––––––––––––––––––––––––––––– PAGE TWO –––––––––––––––––––––––––––––––––––––– */ 
+
+.PageTwoBackground {
+    background-color: #FFFFFF;
+}
+
+.PageTwoHeader {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 5vw;
+    font-style: normal;
+    color: #000000;
+    margin: 0;
+
+}
+
+.PageTwoMainText {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 1vw;
+    color: #000000;
+    padding-top: 20vw;
+    /* padding-right: 10vw; */
+
+}
+
+.PageTwoSubText { 
+    Font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 1vw;
+    color: #000000;
+    padding-top: 0vw; 
+
+}
+
+/* .PageTwoPunctuation {
+
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 900px;
+
+} */ 
+
+.PageTwoQuestion {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 900px;
+    top: -300px;
+}
+
+.PageTwoExclamation {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 1200px;
+    top: 0px;
+}
+
+.PageTwoPeriod {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 750px;
+    top: -200px;
+
+}
+
+.PageTwoComma {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 800px;
+    top: 200px;
+}
+
+.PageTwoColon {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 1100px;
+    top: 350px;
+
+}
+
+.PageTwoSemiColon {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 900px;
+    top: -10px;
+}
+
+.flex-parent-element {
+    display: flex;
+    width: 40%;
+}
+
+.flex-child-element right {
+    display: flex
+
+}
+
+/* –––––––––––––––––––––––––––––––––––––– PAGE THREE –––––––––––––––––––––––––––––––––––––– */ 
+
+.PageThreeText { 
+    Font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 1vw;
+    color: #000000;
+    padding-top: 20vw; 
+
+}
+
+.PageThreeQuestion {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 900px;
+    top: -300px;
+}
+
+.PageThreeExclamation {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 1200px;
+    top: 0px;
+}
+
+.PageThreePeriod {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #FF6565;
+    padding-top: 15vw;
+    position: absolute;
+    left: 750px;
+    top: -200px;
+
+}
+
+.PageThreeComma {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 800px;
+    top: 200px;
+}
+
+.PageThreeColon {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 1100px;
+    top: 350px;
+
+}
+
+.PageThreeSemiColon {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 900px;
+    top: -10px;
+}
+
+/* –––––––––––––––––––––––––––––––––––––– PAGE FOUR –––––––––––––––––––––––––––––––––––––– */ 
+
+.PageFourText { 
+    Font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 1vw;
+    color: #000000;
+    padding-top: 20vw; 
+
+}
+
+.PageFourQuestion {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 900px;
+    top: -300px;
+}
+
+.PageFourExclamation {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 1200px;
+    top: 0px;
+}
+
+.PageFourPeriod {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 750px;
+    top: -200px;
+
+}
+
+.PageFourComma {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 800px;
+    top: 200px;
+}
+
+.PageFourColon {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #FF6565;
+    padding-top: 15vw;
+    position: absolute;
+    left: 1100px;
+    top: 350px;
+
+}
+
+.PageFourSemiColon {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #FF6565;
+    padding-top: 15vw;
+    position: absolute;
+    left: 900px;
+    top: -10px;
+}
+
+/* –––––––––––––––––––––––––––––––––––––– PAGE FIVE –––––––––––––––––––––––––––––––––––––– */ 
+
+.PageFiveText { 
+    Font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 1vw;
+    color: #000000;
+    padding-top: 20vw; 
+
+}
+
+.PageFiveQuestion {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 900px;
+    top: -300px;
+}
+
+.PageFiveExclamation {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 1200px;
+    top: 0px;
+}
+
+.PageFivePeriod {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 750px;
+    top: -200px;
+
+}
+
+.PageFiveComma {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #FF6565;
+    padding-top: 15vw;
+    position: absolute;
+    left: 800px;
+    top: 200px;
+}
+
+.PageFiveColon {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 1100px;
+    top: 350px;
+
+}
+
+.PageFiveSemiColon {
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 20vw;
+    font-style: normal;
+    color: #000000;
+    padding-top: 15vw;
+    position: absolute;
+    left: 900px;
+    top: -10px;
+}
